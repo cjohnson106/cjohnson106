@@ -4,13 +4,21 @@
 
 🥅 Short bio.... 🏒
 
-> Always be getting more gooder.
+> Hello, my name is Cannon Johnson. I like to pride myself on my work ethic, my creativity, and my ability to adapt to situations where I need to fill in and help.
 
 ## Skills
-* Web Design
-* ect.
+* Illustration
+* UX
+* Photography
+* Photo editing
+* Web design
+* Type formating
+* Production
 
-## Languages
-* HTML
-* CSS
-* JS
+## Software
+* Illustrator
+* Photoshop
+* InDesign
+* Lightroom
+* Figma
+* Microsoft Office Apps
